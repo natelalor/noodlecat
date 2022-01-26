@@ -1,19 +1,6 @@
-/*
-:root {
-    background-color: red;
-}
-*/
-
-
 body {
     background-image: url('images/temp_background.png');
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size:cover;
 }
-
-/*
-body > p {
-    background-image: url('images/temp_background.png');
-}
-*/
