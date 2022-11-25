@@ -4,7 +4,7 @@ from flask import Flask, request, render_template
 @app.route('/')
 def index():
 
-    return render_template('index.html')
+    return render_template('template/index.html')
 
 @app.route('/st4rt.html', methods=['GET', 'POST'])
 def st4rt():
